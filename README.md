@@ -5,7 +5,7 @@ called "tf-idf", which considers the word frequency within a file. <br />
 
 ## How to Examine the Code
 There are test text files in the testFiles folder. Right now there are preset tests mentioned <br />
-in the test_invertIndex shell script which ensure correctness in simple cases <br />.
+in the test_invertIndex shell script which ensure correctness in simple cases. <br />
 
 To run the test simply run this command on a Bash supported machine: <br />
 #### `sh test_invertedIndex.sh`
