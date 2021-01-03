@@ -3,6 +3,8 @@ This project utilises abstract data structures (AVL Tree, Binary Search Tree and
 to examine the wording information in certain text files. The words are indexed using a method <br />
 called "tf-idf", which considers the word frequency within a file. <br />
 
+Refer to the spefication in the pdf file for more information.
+
 ## How to Examine the Code
 There are test text files in the testFiles folder. Right now there are preset tests mentioned <br />
 in the test_invertIndex shell script which ensure correctness in simple cases. <br />
